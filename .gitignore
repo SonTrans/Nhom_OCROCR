@@ -21,3 +21,6 @@ data/
 receipts_dataset/
 data_images.xlsx
 data.rar
+
+test_images/
+ocr_results/
